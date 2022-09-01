@@ -1,3 +1,8 @@
 ## Hi, My name is Mateus!☄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?httpmat=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?httpmat=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?httpmat=anuraghazra&repo=convoychat" />
+</a>
