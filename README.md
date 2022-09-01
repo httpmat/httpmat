@@ -2,8 +2,9 @@
 
 <div>
 <a href="https://github.com/httpmat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/pin/?username=httpmat&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/httpmat">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/pin/?username=httpmat&layout=compact&langs_count=168theme=radical" />
 </a>
+</div>
